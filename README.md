@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Pantalla 1:
+- ![image](https://github.com/user-attachments/assets/c22249a4-5665-49e4-9c04-104197c54124)
+## Pantalla 2:
+- ![image](https://github.com/user-attachments/assets/85709ec5-932f-4ee9-beef-750cd726ec60)
+
 
 This project is a starting point for a Flutter application.
 
